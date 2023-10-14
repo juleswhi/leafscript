@@ -5,4 +5,6 @@ set(CMAKE_C_STANDARD 17)
 
 add_executable(leafscript src/main.c
         src/chunk.h
-        src/chunk.c)
+        src/chunk.c
+        src/memory.h
+        src/memory.c)

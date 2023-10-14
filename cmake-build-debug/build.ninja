@@ -61,6 +61,12 @@ build CMakeFiles/leafscript.dir/src/chunk.c.obj: C_COMPILER__leafscript_unscanne
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
 
+build CMakeFiles/leafscript.dir/src/memory.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/elliot$ alderson/Documents/GitHub/leafscript/src/memory.c || cmake_object_order_depends_target_leafscript
+  DEP_FILE = CMakeFiles\leafscript.dir\src\memory.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leafscript.dir
+  OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leafscript
@@ -69,7 +75,7 @@ build CMakeFiles/leafscript.dir/src/chunk.c.obj: C_COMPILER__leafscript_unscanne
 #############################################
 # Link the executable leafscript.exe
 
-build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Debug CMakeFiles/leafscript.dir/src/main.c.obj CMakeFiles/leafscript.dir/src/chunk.c.obj
+build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Debug CMakeFiles/leafscript.dir/src/main.c.obj CMakeFiles/leafscript.dir/src/chunk.c.obj CMakeFiles/leafscript.dir/src/memory.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\leafscript.dir

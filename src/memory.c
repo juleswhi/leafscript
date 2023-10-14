@@ -1,0 +1,17 @@
+//
+// Created by elliot alderson on 14/10/2023.
+//
+
+#include <stdlib.h>
+
+#include "memory.h"
+
+void* reallocate(void* pointer, size_t oldSize, size_t newSize) {
+    if(newSize == 0) {
+        free(pointer);
+        return null;
+    }
+
+    void* result = realloc(pointer, newSize);
+    return result;
+}
