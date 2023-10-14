@@ -9,4 +9,6 @@ add_executable(leafscript src/main.c
         src/memory.h
         src/memory.c
         src/debug.h
-        src/debug.c)
+        src/debug.c
+        src/value.h
+        src/value.c)
