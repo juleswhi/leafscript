@@ -1,0 +1,3 @@
+C:/Users/elliot alderson/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/leafscript.dir
+C:/Users/elliot alderson/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/elliot alderson/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/rebuild_cache.dir
