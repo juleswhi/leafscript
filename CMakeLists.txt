@@ -3,4 +3,4 @@ project(leafscript C)
 
 set(CMAKE_C_STANDARD 17)
 
-add_executable(leafscript main.c)
+add_executable(leafscript src/main.c)
