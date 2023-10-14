@@ -90,7 +90,7 @@ CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/leafscript
 CMAKE_LINKER:FILEPATH=C:/Users/elliot alderson/AppData/Local/Programs/CLion/bin/mingw/bin/ld.exe
 
 //make program
-CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/ELLIOT~1/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe
+CMAKE_MAKE_PROGRAM:FILEPATH=C:/Users/elliot alderson/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe
 
 //Flags used by the linker during the creation of modules during
 // all build types.

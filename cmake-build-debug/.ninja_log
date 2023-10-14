@@ -1,6 +1,5 @@
 # ninja log v5
 1	185	7190234863493208	CMakeFiles/leafscript.dir/main.c.obj	8013be6b041928ce
-187	386	7190234865476381	leafscript.exe	953f22eb75f25b48
-4	158	7190235499325792	build.ninja	6cc7752586bb0691
-0	150	7190235501156206	CMakeFiles/leafscript.dir/src/main.c.obj	b2b406eec12a8dd5
 150	290	7190235502526514	leafscript.exe	b5af93a3f19a70e8
+4	158	7190237994325569	build.ninja	6cc7752586bb0691
+0	150	7190235501156206	CMakeFiles/leafscript.dir/src/main.c.obj	b2b406eec12a8dd5
