@@ -7,4 +7,6 @@ add_executable(leafscript src/main.c
         src/chunk.h
         src/chunk.c
         src/memory.h
-        src/memory.c)
+        src/memory.c
+        src/debug.h
+        src/debug.c)

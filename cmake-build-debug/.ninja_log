@@ -1,5 +1,12 @@
 # ninja log v5
 1	185	7190234863493208	CMakeFiles/leafscript.dir/main.c.obj	8013be6b041928ce
-150	290	7190235502526514	leafscript.exe	b5af93a3f19a70e8
-4	158	7190242267809724	build.ninja	6cc7752586bb0691
-0	150	7190235501156206	CMakeFiles/leafscript.dir/src/main.c.obj	b2b406eec12a8dd5
+2	161	7190248753463503	CMakeFiles/leafscript.dir/src/chunk.c.obj	51a0d5455c3d173c
+158	310	7190248905136851	leafscript.exe	85e8bfeea63c7ed9
+4	158	7190251472616281	build.ninja	6cc7752586bb0691
+19	191	7190247551813100	CMakeFiles/leafscript.dir/src/main.c.obj	b2b406eec12a8dd5
+2	157	7190248903656517	CMakeFiles/leafscript.dir/src/memory.c.obj	ac8e1892f1b316ba
+2	156	7190254192846797	CMakeFiles/leafscript.dir/src/main.c.obj	b2b406eec12a8dd5
+3	161	7190255383457580	CMakeFiles/leafscript.dir/src/debug.c.obj	3b1fd67926ab6f9a
+162	311	7190255384927203	leafscript.exe	1289fa143e79f3d9
+2	166	7190255623107857	CMakeFiles/leafscript.dir/src/debug.c.obj	3b1fd67926ab6f9a
+166	313	7190255624548207	leafscript.exe	1289fa143e79f3d9
