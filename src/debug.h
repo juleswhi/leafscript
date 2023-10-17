@@ -7,7 +7,8 @@
 
 #include "chunk.h"
 
+// These methods just disassemble some instructions to be huamn readable
 void disassembleChunk(Chunk* chunk, const char* name);
 int disassembleInstruction(Chunk* chunk, int offset);
 
-#endif //LEAFSCRIPT_DEBUG_H
+#endif
