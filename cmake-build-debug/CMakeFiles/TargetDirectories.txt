@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/leafscript.dir
 C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-=======
-C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/leafscript.dir
-C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/rebuild_cache.dir
->>>>>>> 211a5e9c6447153b88e68de534c9963ccaeac652

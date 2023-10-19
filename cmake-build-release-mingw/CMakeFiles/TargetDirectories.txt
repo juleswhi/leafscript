@@ -1,0 +1,3 @@
+C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw/CMakeFiles/leafscript.dir
+C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw/CMakeFiles/edit_cache.dir
+C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw/CMakeFiles/rebuild_cache.dir

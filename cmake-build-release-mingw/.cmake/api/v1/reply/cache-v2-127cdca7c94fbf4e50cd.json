@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Debug"
+			"value" : "Release"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug"
+			"value" : "c:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug"
+			"value" : "C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw"
 		},
 		{
 			"name" : "leafscript_IS_TOP_LEVEL",

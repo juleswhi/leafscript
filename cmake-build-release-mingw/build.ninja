@@ -12,7 +12,7 @@
 
 # =============================================================================
 # Project: leafscript
-# Configurations: Debug
+# Configurations: Release
 # =============================================================================
 
 #############################################
@@ -24,7 +24,7 @@ ninja_required_version = 1.5
 #############################################
 # Set configuration variable for custom commands.
 
-CONFIGURATION = Debug
+CONFIGURATION = Release
 # =============================================================================
 # Include auxiliary files.
 
@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/cmake-build-release-mingw/
 # =============================================================================
 # Object build statements for EXECUTABLE target leafscript
 
@@ -49,65 +49,65 @@ cmake_ninja_workdir = C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/cmake
 
 build cmake_object_order_depends_target_leafscript: phony || CMakeFiles/leafscript.dir
 
-build CMakeFiles/leafscript.dir/src/main.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/main.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/main.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/main.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\main.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/chunk.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/chunk.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/chunk.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/chunk.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\chunk.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/memory.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/memory.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/memory.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/memory.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\memory.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/debug.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/debug.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/debug.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/debug.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\debug.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/value.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/value.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/value.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/value.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\value.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/vm.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/vm.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/vm.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/vm.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\vm.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/compiler.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/compiler.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/compiler.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/compiler.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\compiler.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
   TARGET_PDB = leafscript.pdb
 
-build CMakeFiles/leafscript.dir/src/scanner.c.obj: C_COMPILER__leafscript_unscanned_Debug C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/scanner.c || cmake_object_order_depends_target_leafscript
+build CMakeFiles/leafscript.dir/src/scanner.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/scanner.c || cmake_object_order_depends_target_leafscript
   DEP_FILE = CMakeFiles\leafscript.dir\src\scanner.c.obj.d
-  FLAGS = -g -fdiagnostics-color=always
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\leafscript.dir\
@@ -121,8 +121,8 @@ build CMakeFiles/leafscript.dir/src/scanner.c.obj: C_COMPILER__leafscript_unscan
 #############################################
 # Link the executable leafscript.exe
 
-build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Debug CMakeFiles/leafscript.dir/src/main.c.obj CMakeFiles/leafscript.dir/src/chunk.c.obj CMakeFiles/leafscript.dir/src/memory.c.obj CMakeFiles/leafscript.dir/src/debug.c.obj CMakeFiles/leafscript.dir/src/value.c.obj CMakeFiles/leafscript.dir/src/vm.c.obj CMakeFiles/leafscript.dir/src/compiler.c.obj CMakeFiles/leafscript.dir/src/scanner.c.obj
-  FLAGS = -g
+build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Release CMakeFiles/leafscript.dir/src/main.c.obj CMakeFiles/leafscript.dir/src/chunk.c.obj CMakeFiles/leafscript.dir/src/memory.c.obj CMakeFiles/leafscript.dir/src/debug.c.obj CMakeFiles/leafscript.dir/src/value.c.obj CMakeFiles/leafscript.dir/src/vm.c.obj CMakeFiles/leafscript.dir/src/compiler.c.obj CMakeFiles/leafscript.dir/src/scanner.c.obj
+  FLAGS = -O3 -DNDEBUG
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\leafscript.dir
   POST_BUILD = cd .
@@ -137,7 +137,7 @@ build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Debug CMakeFiles/leafscrip
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-debug" && "C:\Users\ayo mr white\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-release-mingw" && "C:\Users\ayo mr white\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -148,7 +148,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D "C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-debug" && "C:\Users\ayo mr white\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Users\ayo mr white\Documents\GitHub\leafscript" -B"C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-debug""
+  COMMAND = cmd.exe /C "cd /D "C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-release-mingw" && "C:\Users\ayo mr white\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"C:\Users\ayo mr white\Documents\GitHub\leafscript" -B"C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-release-mingw""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -166,7 +166,7 @@ build leafscript: phony leafscript.exe
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug
+# Folder: C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-release-mingw
 
 build all: phony leafscript.exe
 

@@ -1,17 +1,10 @@
-<<<<<<< HEAD
 "C:\Users\ayo mr white\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Users/ayo mr white/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\ayo mr white\Documents\GitHub\leafscript" -B "C:\Users\ayo mr white\Documents\GitHub\leafscript\cmake-build-debug"
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug
-=======
-"C:\Users\i hate windows\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S "C:\Users\i hate windows\Documents\GitHub\leafscript" -B "C:\Users\i hate windows\Documents\GitHub\leafscript\cmake-build-debug"
 -- The C compiler identification is GNU 13.1.0
 -- Detecting C compiler ABI info
 -- Detecting C compiler ABI info - done
--- Check for working C compiler: C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe - skipped
+-- Check for working C compiler: C:/Users/ayo mr white/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done (9.1s)
--- Generating done (0.2s)
--- Build files have been written to: C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug
->>>>>>> 211a5e9c6447153b88e68de534c9963ccaeac652
+-- Configuring done (1.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug

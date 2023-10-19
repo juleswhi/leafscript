@@ -5,6 +5,8 @@
 #ifndef LEAFSCRIPT_COMPILER_H
 #define LEAFSCRIPT_COMPILER_H
 
-void compile(const char* source);
+#include "vm.h"
+
+bool compile(const char* source, Chunk* chunk);
 
 #endif
