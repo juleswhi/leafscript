@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="leafscript"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leafscript">
+				<Option output="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/leafscript.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 leafscript"/>
+					<CompileFile command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leafscript/fast">
+				<Option output="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/leafscript.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 leafscript/fast"/>
+					<CompileFile command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/IHATEW~1/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/chunk.c">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/chunk.h">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/debug.c">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/debug.h">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/main.c">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/memory.c">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/memory.h">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/value.c">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/value.h">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/vm.c">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/src/vm.h">
+			<Option target="leafscript"/>
+		</Unit>
+		<Unit filename="C:/Users/i hate windows/Documents/GitHub/leafscript/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

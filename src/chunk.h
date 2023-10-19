@@ -8,6 +8,7 @@
 #include "common.h"
 #include "value.h"
 
+// Tokens ?
 typedef enum {
     OP_CONSTANT,
     OP_NEGATE,
@@ -18,6 +19,8 @@ typedef enum {
     OP_RETURN,
 } OpCode;
 
+// Define the structure for a chunk
+
 typedef struct {
     int count;
     int capacity;
@@ -26,9 +29,11 @@ typedef struct {
     ValueArray constants;
 } Chunk;
 
+// Some basic methods for working with memory
+// Remember to free the memory
 void initChunk(Chunk* chunk);
 void freeChunk(Chunk* chunk);
 void writeChunk(Chunk* chunk, uint8_t byte, int line);
 int addConstant(Chunk* chunk, Value value);
 
-#endif //LEAFSCRIPT_CHUNK_H
+#endif

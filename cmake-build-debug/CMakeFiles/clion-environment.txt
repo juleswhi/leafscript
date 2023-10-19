@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ToolSet: w64 11.0 (local)@C:\Users\ayo mr white\AppData\Local\Programs\CLion\bin\mingw
 Options: 
 
 Options:-DCMAKE_MAKE_PROGRAM=C:/Users/ayo mr white/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe
+=======
+ToolSet: w64 11.0 (local)@C:\Users\i hate windows\AppData\Local\Programs\CLion\bin\mingw
+Options: 
+
+Options:
+>>>>>>> 211a5e9c6447153b88e68de534c9963ccaeac652

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Install script for directory: C:/Users/ayo mr white/Documents/GitHub/leafscript
+=======
+# Install script for directory: C:/Users/i hate windows/Documents/GitHub/leafscript
+>>>>>>> 211a5e9c6447153b88e68de534c9963ccaeac652
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +38,11 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
+<<<<<<< HEAD
   set(CMAKE_OBJDUMP "C:/Users/ayo mr white/AppData/Local/Programs/CLion/bin/mingw/bin/objdump.exe")
+=======
+  set(CMAKE_OBJDUMP "C:/Users/i hate windows/AppData/Local/Programs/CLion/bin/mingw/bin/objdump.exe")
+>>>>>>> 211a5e9c6447153b88e68de534c9963ccaeac652
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +53,9 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
+<<<<<<< HEAD
 file(WRITE "C:/Users/ayo mr white/Documents/GitHub/leafscript/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+=======
+file(WRITE "C:/Users/i hate windows/Documents/GitHub/leafscript/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+>>>>>>> 211a5e9c6447153b88e68de534c9963ccaeac652
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
