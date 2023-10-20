@@ -8,3 +8,14 @@
 34	141	7194607398034953	CMakeFiles/leafscript.dir/src/chunk.c.obj	467d7d42151bd5ba
 15	167	7194607398295010	CMakeFiles/leafscript.dir/src/vm.c.obj	fdc138348f30add7
 136	240	7194610188043016	leafscript.exe	2ffc38538fff216b
+4	149	7195209664485136	CMakeFiles/leafscript.dir/src/memory.c.obj	80a259fe04183e01
+17	174	7195209664745196	CMakeFiles/leafscript.dir/src/chunk.c.obj	467d7d42151bd5ba
+11	200	7195209664955246	CMakeFiles/leafscript.dir/src/main.c.obj	c94732a84949226b
+57	214	7195209665125302	CMakeFiles/leafscript.dir/src/object.c.obj	dbda3483e39b73b9
+39	215	7195209665145287	CMakeFiles/leafscript.dir/src/value.c.obj	59d3e064c8f3b803
+24	217	7195209665155283	CMakeFiles/leafscript.dir/src/debug.c.obj	840de6400173d353
+31	265	7195209665665395	CMakeFiles/leafscript.dir/src/compiler.c.obj	1e1b698e7c366bc0
+47	267	7195209665685394	CMakeFiles/leafscript.dir/src/vm.c.obj	fdc138348f30add7
+3	130	7195210952590901	CMakeFiles/leafscript.dir/src/vm.c.obj	fdc138348f30add7
+3	130	7195211352872812	CMakeFiles/leafscript.dir/src/vm.c.obj	fdc138348f30add7
+130	230	7195211353831099	leafscript.exe	1a260b3112e09006

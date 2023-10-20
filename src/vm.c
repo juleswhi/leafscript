@@ -37,7 +37,7 @@ void initVM() {
 }
 
 void freeVM() {
-    freObjects();
+    freeObjects();
 }
 
 // the first ( *vm.stackTop ) stores the actual value at the ( stackTop )
@@ -126,7 +126,7 @@ static InterpretResult run() {
 
             case OP_ADD: {
                 if(IS_STRING(peek(0)) && IS_STRING(peek(1))) {
-                    concatenate();
+                    concatonate();
                 } else if(IS_NUMBER(peek(0)) && IS_NUMBER(peek(1))) {
                     double b = AS_NUMBER(pop());
                     double a = AS_NUMBER(pop());
