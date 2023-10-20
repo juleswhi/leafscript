@@ -5,7 +5,7 @@
 2	91	7194448751195161	CMakeFiles/leafscript.dir/src/scanner.c.obj	353ec1e8edae8fc0
 15	205	7191098618952349	CMakeFiles/leafscript.dir/src/debug.c.obj	4417227b5f752455
 20	202	7191098618922349	CMakeFiles/leafscript.dir/src/value.c.obj	299f1f4cfedbe32b
-4	158	7194486809469379	build.ninja	6cc7752586bb0691
+4	158	7195189605280443	build.ninja	6cc7752586bb0691
 3	217	7194448677743284	CMakeFiles/leafscript.dir/src/main.c.obj	4a8144792a250298
 15	215	7194448677733293	CMakeFiles/leafscript.dir/src/compiler.c.obj	91311523a50a66d1
 10	245	7191098619362436	CMakeFiles/leafscript.dir/src/memory.c.obj	dbae83a00110175f
