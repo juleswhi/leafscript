@@ -119,6 +119,7 @@ static TokenType identifierType() {
             }
             break;
         case 'i': return checkKeyword(1, 1, "f", TOKEN_IF);
+        case 'l': return checkKeyword(1, 2, "et", TOKEN_LET);
         case 'n': return checkKeyword(1, 3, "ull", TOKEN_NULL);
         case 'o': return checkKeyword(1, 1, "r", TOKEN_OR);
         case 'p': return checkKeyword(1, 4, "rint", TOKEN_PRINT);
@@ -131,7 +132,6 @@ static TokenType identifierType() {
                     case 'r': return checkKeyword(2, 2, "ue", TOKEN_TRUE);
                 }
             }
-        case 'v': return checkKeyword(1, 2, "ar", TOKEN_LET);
         case 'w': return checkKeyword(1, 4, "hile", TOKEN_WHILE);
     }
 
