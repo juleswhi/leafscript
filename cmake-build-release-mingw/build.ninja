@@ -103,6 +103,12 @@ build CMakeFiles/leafscript.dir/src/object.c.obj: C_COMPILER__leafscript_unscann
   OBJECT_DIR = CMakeFiles\leafscript.dir
   OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
 
+build CMakeFiles/leafscript.dir/src/table.c.obj: C_COMPILER__leafscript_unscanned_Release C$:/Users/ayo$ mr$ white/Documents/GitHub/leafscript/src/table.c || cmake_object_order_depends_target_leafscript
+  DEP_FILE = CMakeFiles\leafscript.dir\src\table.c.obj.d
+  FLAGS = -O3 -DNDEBUG -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\leafscript.dir
+  OBJECT_FILE_DIR = CMakeFiles\leafscript.dir\src
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target leafscript
@@ -111,7 +117,7 @@ build CMakeFiles/leafscript.dir/src/object.c.obj: C_COMPILER__leafscript_unscann
 #############################################
 # Link the executable leafscript.exe
 
-build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Release CMakeFiles/leafscript.dir/src/main.c.obj CMakeFiles/leafscript.dir/src/chunk.c.obj CMakeFiles/leafscript.dir/src/memory.c.obj CMakeFiles/leafscript.dir/src/debug.c.obj CMakeFiles/leafscript.dir/src/value.c.obj CMakeFiles/leafscript.dir/src/vm.c.obj CMakeFiles/leafscript.dir/src/compiler.c.obj CMakeFiles/leafscript.dir/src/scanner.c.obj CMakeFiles/leafscript.dir/src/object.c.obj
+build leafscript.exe: C_EXECUTABLE_LINKER__leafscript_Release CMakeFiles/leafscript.dir/src/main.c.obj CMakeFiles/leafscript.dir/src/chunk.c.obj CMakeFiles/leafscript.dir/src/memory.c.obj CMakeFiles/leafscript.dir/src/debug.c.obj CMakeFiles/leafscript.dir/src/value.c.obj CMakeFiles/leafscript.dir/src/vm.c.obj CMakeFiles/leafscript.dir/src/compiler.c.obj CMakeFiles/leafscript.dir/src/scanner.c.obj CMakeFiles/leafscript.dir/src/object.c.obj CMakeFiles/leafscript.dir/src/table.c.obj
   FLAGS = -O3 -DNDEBUG
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\leafscript.dir

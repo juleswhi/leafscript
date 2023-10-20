@@ -19,4 +19,6 @@ add_executable(leafscript src/main.c
         src/scanner.h
         src/scanner.c
         src/object.h
-        src/object.c)
+        src/object.c
+        src/table.h
+        src/table.c)

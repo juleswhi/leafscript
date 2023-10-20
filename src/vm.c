@@ -34,10 +34,12 @@ static void runtimeError(const char* format, ...) {
 void initVM() {
     resetStack();
     vm.objects = NULL;
+    initTable(&vm.strings);
 }
 
 void freeVM() {
     freeObjects();
+    freeTable(&vm.strings);
 }
 
 // the first ( *vm.stackTop ) stores the actual value at the ( stackTop )
